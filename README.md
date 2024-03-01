@@ -1,4 +1,4 @@
-<h1>Carpeta base con el código HTML, para la construcción de una sección resposnive con efecto de fondo en ángulo / sesgado.</h1>
+<h1>Código para la creación de una sección con comportamiento resposnive, con efecto de fondo en ángulo / sesgado y un botón de neon profesional.</h1>
 <h2>Creado solo con HTML5 y CSS3</h2>
 <br>
 <h2>Al descargar este proyecto, debes efectuar los siguientes pasos:</h2>
@@ -7,7 +7,7 @@
   <li>Abrir en Visual Studio Code la carpeta del proyecto</li>
 </ol>
 
-Listo ya tienes la carpeta con el código HTML para que puedas seguirme en el video.
+Listo ya tienes la carpeta con el código HTML y CSS, para que puedas practicar, efectuar todos los ajustes que desees y sobre todo internalizar lo que hace cada línea de código.
 <h2 style="text-align:center">Si quieres ir desde 0 a 100 en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
 <table>
   <tr>
